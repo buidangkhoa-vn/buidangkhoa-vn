@@ -6,9 +6,9 @@ I'm Khoa 👋
 📍 Ho Chi Minh City, Vietnam 
 
 ## 🌐 Connect with me
-- LinkedIn: https://linkedin.com/in/khoa-bui-dang
-- Facebook: https://www.facebook.com/khoa.buidang.01
-- Instagram: https://www.instagram.com/khoa.dk_
+- LinkedIn: [khoa-bui-dang](https://linkedin.com/in/khoa-bui-dang)
+- Facebook: [khoa.buidang.01](https://www.facebook.com/khoa.buidang.01)
+- Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
 
 ## 🚀 Projects
 - EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
