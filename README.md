@@ -7,7 +7,8 @@ I'm Khoa 👋
 
 ## 🌐 Connect with me
 - LinkedIn: https://linkedin.com/in/khoa-bui-dang
-- Website: https://yourwebsite.com
+- Facebook: https://www.facebook.com/khoa.buidang.01
+- Instagram: https://www.instagram.com/khoa.dk_
 
 ## 🚀 Projects
 - EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
