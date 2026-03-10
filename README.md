@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Khoa 👋
 
-<!--
-**buidangkhoa-vn/buidangkhoa-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
+💻 Interested in Software Engineering, AI and Backend Development   
+🌱 Currently learning Data Structures, Algorithms and System Design  
+📍 Ho Chi Minh City, Vietnam 
 
-Here are some ideas to get you started:
+## 🌐 Connect with me
+- LinkedIn: https://linkedin.com/in/khoa-bui-dang
+- Website: https://yourwebsite.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
+
