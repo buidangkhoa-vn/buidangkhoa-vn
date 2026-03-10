@@ -7,7 +7,7 @@ I'm Khoa 👋
 
 ## 🌐 Connect with me
 - LinkedIn: [khoa-bui-dang](https://linkedin.com/in/khoa-bui-dang)
-- Facebook: [khoa.buidang.01](https://www.facebook.com/khoa.buidang.vn)
+- Facebook: [khoa.buidang.vn](https://www.facebook.com/khoa.buidang.vn)
 - Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
 
 ## 🚀 Projects
