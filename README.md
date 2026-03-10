@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Khoa 👋
+I'm Khoa and welcome to my GitHub! 👋
 
 🎓 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 💻 Interested in Software Engineering, AI and Backend Development   
