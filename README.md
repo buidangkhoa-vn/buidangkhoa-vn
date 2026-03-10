@@ -3,7 +3,6 @@ I'm Khoa 👋
 
 🎓 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
 💻 Interested in Software Engineering, AI and Backend Development   
-🌱 Currently learning Data Structures, Algorithms and System Design  
 📍 Ho Chi Minh City, Vietnam 
 
 ## 🌐 Connect with me
