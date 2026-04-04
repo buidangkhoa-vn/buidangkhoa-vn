@@ -9,7 +9,7 @@ I'm Khoa and welcome to my GitHub! 👋
 - LinkedIn: [dangkhoa-bui-vn](https://www.linkedin.com/in/dangkhoa-bui-vn/)
 - Facebook: [khoa.buidang.vn](https://www.facebook.com/khoa.buidang.vn)
 - Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
-- My-website: .[dangkhoabui](https://dangkhoabui.netlify.app/)
+- My-website: .[personal website ](https://dangkhoabui.netlify.app/)
 ## 🚀 Projects
 - EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
 
