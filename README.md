@@ -15,6 +15,6 @@ Currently working on personal projects 🚀
 - Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
 - <!-- - I also have a [little personal website](https://dangkhoabui.netlify.app/) if you'd like to know more about me 😄! -->
 ## 📄 My CV
-👉 [View my CV](https://github.com/buidangkhoa-vn/buidangkhoa-vn/blob/main/CV_dangkhoa_bui.pdf)
+👉 [View my CV](https://raw.githubusercontent.com/buidangkhoa-vn/buidangkhoa-vn/main/CV_dangkhoa_bui.pdf)
 
 Cheers! ☕
