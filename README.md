@@ -1,15 +1,18 @@
 ## Hi there 👋
-I'm Khoa and welcome to my GitHub! 👋
 
-🎓 Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)
-💻 Interested in Software Engineering, AI and Backend Development   
-📍 Ho Chi Minh City, Vietnam 
+I'm **Khoa**, welcome to my GitHub!
 
-## 🌐 Connect with me
+🎓 Computer Science student at HCMUT  
+💻 Interested in AI and software development  
+
+I enjoy building things, learning new technologies, and exploring ideas through projects.  
+Outside of coding, I like photography and playing guitar.
+
+Currently working on personal projects 🚀  
+
+## 🌐 Let's connect
 - LinkedIn: [dangkhoa-bui-vn](https://www.linkedin.com/in/dangkhoa-bui-vn/)
-- Facebook: [khoa.buidang.vn](https://www.facebook.com/khoa.buidang.vn)
 - Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
-- My-website: .[personal website ](https://dangkhoabui.netlify.app/)
-## 🚀 Projects
-- EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
+- I also have a [little personal website](https://dangkhoabui.netlify.app/) if you'd like to know more about me 😄!
 
+Cheers! ☕
