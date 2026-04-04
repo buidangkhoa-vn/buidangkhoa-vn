@@ -6,10 +6,10 @@ I'm Khoa and welcome to my GitHub! 👋
 📍 Ho Chi Minh City, Vietnam 
 
 ## 🌐 Connect with me
-- LinkedIn: [khoa-bui-dang](https://linkedin.com/in/khoa-bui-dang)
+- LinkedIn: [dangkhoa-bui-vn](https://www.linkedin.com/in/dangkhoa-bui-vn/)
 - Facebook: [khoa.buidang.vn](https://www.facebook.com/khoa.buidang.vn)
 - Instagram: [khoa.dk_](https://www.instagram.com/khoa.dk_)
-
+- My-website: .[dangkhoabui](https://dangkhoabui.netlify.app/).
 ## 🚀 Projects
 - EHR Transfer Learning for Chronic Respiratory Disease Diagnosis
 
