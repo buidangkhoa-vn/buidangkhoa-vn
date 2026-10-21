@@ -6,9 +6,7 @@ I'm **Khoa**, welcome to my GitHub!
 💻 Interested in AI and software development  
 
 I enjoy building things, learning new technologies, and exploring ideas through projects.  
-Outside of coding, I like photography and playing guitar.
-
-Currently working on personal projects 🚀  
+Outside of coding, I like photography and playing guitar. 
 
 ## 🌐 Let's connect
 - LinkedIn: [dangkhoa-bui-vn](https://www.linkedin.com/in/dangkhoa-bui-vn/)
